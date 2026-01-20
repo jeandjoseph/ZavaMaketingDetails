@@ -4,6 +4,11 @@
     "source": "zava_sales_transactions.xlsx",
     "description": "Marketing summary for H1 2026 based on Nov\u2013Dec 2025 sample."
   },
+
+  "marketing": {
+    "strategy": "Zava Retail is focusing on a targeted expansion strategy that aligns store growth with areas showing the strongest customer demand. By leveraging sales analytics, customer location data, and local market trends, the brand identifies high-traffic zones where new stores can immediately capture unmet demand. This data-driven approach allows Zava Retail to open locations strategically rather than broadly, maximizing return on investment while improving customer accessibility. To support this expansion, Zava Retail is boosting brand visibility through localized marketing campaigns, pop-up experiences, and community partnerships that build excitement ahead of each store opening. Digital engagement—especially through social media, loyalty programs, and personalized promotions—helps drive both awareness and foot traffic. Together, these initiatives position Zava Retail to scale efficiently while maintaining strong customer enthusiasm and market presence."
+  },
+  
   "kpis": {
     "transactions": 120,
     "net_revenue": 10085.61,
