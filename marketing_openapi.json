@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://raw.githubusercontent.com/jeandjoseph/publicpage/main"
+      "url": "https://raw.githubusercontent.com/jeandjoseph/ZavaMaketingDetails/main/"
     }
   ],
   "paths": {
@@ -30,3 +30,4 @@
     }
   }
 }
+
